@@ -16,4 +16,4 @@
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Xisap1&show_icons=true)
 
-# Gracias por visitar mi portafolio
+## Gracias por visitar mi portafolio 👻
