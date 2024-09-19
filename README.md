@@ -1,6 +1,7 @@
 # ¡Hola soy Isabeau Valverde! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p>Soy una estudiante desarrolladora full strack apasionada por inovar, estoy entusiasmada por seguir aprendiendo y crecer en esta area de desarrollo web, estoy actualmente buscando mi primera oportunidad en el campo de la tecnologia de la informacion.</p>
-## Acerca de mí
+##Acerca de mí
+
 - 👀 Soy una persona bastante adaptable, con conocimientos en tecnologías como Python, Postgresql, Django, Bootstrap
 - 💞️ 
 - 🌱 Me encanta pasar tiempo admirando la naturaleza y conocer lugares nuevos 
