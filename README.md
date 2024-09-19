@@ -2,11 +2,11 @@
 <p>Soy una estudiante desarrolladora full strack apasionada por inovar, estoy entusiasmada por seguir aprendiendo y crecer en esta area de desarrollo web, estoy actualmente buscando mi primera oportunidad en el campo de la tecnologia de la informacion.</p>
 <h2>Acerca de mí</h2>
 
-- 👀 Soy una persona bastante adaptable, con conocimientos en tecnologías como Python, Postgresql, Django, Bootstrap
-- 💞️ 
+- 👀 Tengo 24 años, de nacionalidad chilena
+- 📫 con conocimientos en tecnologías como Python, Postgresql, Django, Bootstrap..
+- 💞️ Soy una persona bastante adaptable, autodidacta, con ganas de seguir aprendiendo cosas nuevas
 - 🌱 Me encanta pasar tiempo admirando la naturaleza y conocer lugares nuevos 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Si tienes en mente algun proyecto, puedes contactarme 👇
 
 
 ## CONTACTO
