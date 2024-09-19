@@ -17,4 +17,4 @@
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Xisap1&show_icons=true)
 
 ## Gracias por visitar mi portafolio 👻
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Xisap1&label=Profile%20views&color=0e75b6&style=flat" alt="Xisap1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mauro069&label=Profile%20views&color=0e75b6&style=flat" alt="mauro069" /> </p>
