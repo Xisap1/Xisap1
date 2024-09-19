@@ -6,7 +6,7 @@
 - 📫 con conocimientos en tecnologías como Python, Postgresql, Django, Bootstrap..
 - 💞️ Soy una persona bastante adaptable, autodidacta, con ganas de seguir aprendiendo cosas nuevas
 - 🌱 Me encanta pasar tiempo admirando la naturaleza y conocer lugares nuevos 
-- 😄 Mi formación academica es en la acdemia de Desafio Latam, en donde desarrolle varios proyectos donde aprendi todo lo que se hoy en dia, si tienes en mente algun proyecto, puedes contactarme 👇
+- 😄 Mi formación academica es en la academia de Desafio Latam, en donde desarrolle varios proyectos donde aprendi todo lo que se hoy en dia, si tienes en mente algun proyecto, puedes contactarme 👇
 
 
 ## CONTACTO
