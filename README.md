@@ -11,7 +11,7 @@
 
 ## CONTACTO
 - 📫 [correo electronico](isabeau.valverde2000@gmail.com)
-- [LinkeIn](https:www.linkedin.com/in/isabeau-valverde-cordovez-técnico-de-nivel-superior-asistente-en-educación/)
+- :octocat:[LinkeIn](https:www.linkedin.com/in/isabeau-valverde-cordovez-técnico-de-nivel-superior-asistente-en-educación/)
 
 <!---
 Xisap1/Xisap1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
