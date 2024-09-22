@@ -10,7 +10,7 @@
 
 
 ## CONTACTO
-- 📫 [Correo electronico].(isabeau.valverde2000@gmail.com)
+- 📫 [Correo electronico](isabeau.valverde2000@gmail.com)
 - :octocat:[LinkeIn](https://www.linkedin.com/in/isabeau-valverde-cordovez-técnico-de-nivel-superior-asistente-en-educación/)
 
 
