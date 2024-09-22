@@ -11,7 +11,7 @@
 
 ## CONTACTO
 - 📫 [Correo electronico].(isabeau.valverde2000@gmail.com)
-- :octocat:[LinkeIn].(https:www.linkedin.com/in/isabeau-valverde-cordovez-técnico-de-nivel-superior-asistente-en-educación/)
+- :octocat:[LinkeIn](https://www.linkedin.com/in/isabeau-valverde-cordovez-técnico-de-nivel-superior-asistente-en-educación/)
 
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Xisap1&show_icons=true)
